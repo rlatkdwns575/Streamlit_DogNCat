@@ -8,7 +8,8 @@ Streamlit과 PyTorch를 활용해 **직접 학습한 이미지 분류 모델을 
 - **DogsNCats**: 개 / 고양이 이진 분류 웹 앱
 - **Leaf**: 식물 잎 질병 다중 분류 웹 앱
 - **Ball_classification**: 공 이미지 분류 관련 폴더
-- **Yolo26**: Yolo26이용 이미지 분류 관련 폴더
+- **Yolo26**: Yolo26이용 이미지 분류 웹 앱
+- **number_classify**: 숫자 이미지 분류 웹 앱
 
 ---
 
